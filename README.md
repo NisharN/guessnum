@@ -1,7 +1,3 @@
-Here’s a structured README file for your "Guess the Random Number" app:
-
----
-
 # Guess the Random Number App
 
 A fun and interactive React app where users try to guess a randomly generated number within a set number of chances. Built with React components, state management, and styled with Tailwind CSS. The app demonstrates the use of both browser DOM and virtual DOM.
